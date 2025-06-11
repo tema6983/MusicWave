@@ -1,6 +1,6 @@
 // Расширенный список треков
 let tracks = [
-    { id: '1', title: "New Jeans", artist: "New Jeans", cover: "https://static.hitmcdn.com/cover/175/ea4/39414.jpg", file: "https://muzes.net/uploads/music/2023/07/NewJeans_New_Jeans.mp3", popular: true,},
+    { id: '1', title: "New Jeans", artist: "New Jeans", cover: "https://static.hitmcdn.com/cover/175/ea4/39414.jpg", file: "https://fine.sunproxy.net/file/Y1NON3BpK1EwYVdxSVBuL2RZMVZIWHlBVytGbVg3cWFuemNXWlpmV0QxL0h2YU5JWEpBLzBRUFFXZmM2T0NxZjNPZUxRUzY4YXVtK29UeHRZQ0ZUdkxuejBjNDhrT2t4WHdzRVpGa25KaGM9/NewJeans_-_New_Jeans_(SkySound.cc).mp3", popular: true,},
     { id: '2', title: "Дурак и молния", artist: "Король и шут", cover: "https://static.hitmcdn.com/covers/a/b5b/aa9/2559.jpg", file: "https://dl1.mp3party.net/online/8439518.mp3", popular: true,},
     { id: '3', title: "Trenchtown", artist: "MiyaGi", cover: "https://static.hitmcdn.com/covers/a/5c2/ec6/529946.jpg", file: "https://dl1.mp3party.net/online/8770043.mp3", popular: true,},
     { id: '4', title: "Slow Mo", artist: "Скриптонит", cover: "https://static.hitmcdn.com/covers/a/01f/59e/805320.jpg", file: "https://dl1.mp3party.net/online/10692503.mp3", popular: true,},
